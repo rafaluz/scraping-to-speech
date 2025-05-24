@@ -1,0 +1,23 @@
+# Ambiente virtual
+env/
+venv/
+.venv/
+
+# Diretório de downloads de áudio
+audio_downloads/
+
+# Arquivos de cache e temporários do Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Arquivos de ambiente e configurações locais
+*.env
+.env
+*.DS_Store
+
+# Arquivos de Streamlit temporários
+.streamlit/
+
+# Arquivos de pacotes zip gerados
+*.zip
